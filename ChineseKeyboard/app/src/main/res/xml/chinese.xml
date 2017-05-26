@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+          android:horizontalGap="0.0px"
+          android:keyHeight="50dp"
+          android:keyWidth="25.000002%p"
+          android:verticalGap="0.0px">
+
+    <Row>
+        <Key
+            android:codes="36213"
+            android:keyLabel="赵"/>
+        <Key
+            android:codes="38065"
+            android:keyLabel="钱"/>
+        <Key
+            android:codes="23385"
+            android:keyLabel="孙"/>
+        <Key
+            android:codes="26446"
+            android:keyLabel="李"/>
+    </Row>
+    <Row>
+
+        <Key
+            android:codes="21608"
+            android:keyLabel="周"/>
+        <Key
+            android:codes="21556"
+            android:keyLabel="吴"/>
+        <Key
+            android:codes="37073"
+            android:keyLabel="郑"/>
+
+        <Key
+            android:codes="-5"
+            android:isRepeatable="true"
+            android:keyIcon="@drawable/kb_deleteicon"/>
+    </Row>
+    <Row>
+
+        <Key
+            android:codes="29579"
+            android:keyLabel="王"/>
+        <Key
+            android:codes="20911"
+            android:keyLabel="冯"/>
+        <Key
+            android:codes="38472"
+            android:keyLabel="陈"/>
+
+        <Key
+            android:codes="-3"
+            android:keyEdgeFlags="right"
+            android:keyLabel="完成"
+            android:keyWidth="25.000004%p"/>
+    </Row>
+
+</Keyboard>
