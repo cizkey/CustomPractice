@@ -3,8 +3,18 @@
 ## 这是一个学习自定义View的练习仓库
 
 1. WriteView - 利用Canvas绘图定义一个手写板
-链接:
-[WriteView](https://github.com/cizkey/CustomPractice/blob/master/WriteView/app/src/main/java/com/maxwell/writeview/WriteView.java) 
+* 主要文件链接:
+[手写板实现类WriteView](https://github.com/cizkey/CustomPractice/blob/master/WriteView/app/src/main/java/com/maxwell/writeview/WriteView.java) 
+[博客连接](http://blog.csdn.net/maxwell0401/article/details/72758908)
+<img width="20%" src="https://github.com/cizkey/CustomPractice/blob/master/WriteView/screenshot/screenshot1.png" />
 
-Screenshot:
-<img width="30%" src="https://github.com/cizkey/CustomPractice/blob/master/WriteView/screenshot/screenshot1.png" />
+
+2. ChineseKeyboard - 汉字键盘
+* 主要文件链接:
+[获取codes的工具类](https://github.com/cizkey/CustomPractice/blob/master/ChineseKeyboard/app/src/main/java/com/maxwell/chinesekeyboard/GetUnicodeUtils.java)
+[按键映射chinese.xml](https://github.com/cizkey/CustomPractice/blob/master/ChineseKeyboard/app/src/main/res/xml/chinese.xml)
+[调用汉字键盘](https://github.com/cizkey/CustomPractice/blob/master/ChineseKeyboard/app/src/main/java/com/maxwell/chinesekeyboard/MainActivity.java)
+[博客链接](http://blog.csdn.net/maxwell0401/article/details/72764347)
+<img width="20%" src="https://github.com/cizkey/CustomPractice/blob/master/ChineseKeyboard/screenshot/screenshot1.png" />
+
+
