@@ -19,7 +19,6 @@
 
 3. CircleMenu - 仿建行的圆形菜单  
 * 主要文件连接:  
-[圆形菜单布局CircleMenuLayout]()  
-[博客连接]()  
-
-<img width="20%" src="" />
+[圆形菜单布局CircleMenuLayout](https://github.com/cizkey/CustomPractice/blob/master/CircleMenu/app/src/main/java/com/maxwell/circlemenu/CircleMenuLayout.java)  
+[博客链接](http://blog.csdn.net/maxwell0401/article/details/72853594)  
+<img width="20%" src="https://github.com/cizkey/CustomPractice/blob/master/CircleMenu/screenshot/screenshot01.png" />
