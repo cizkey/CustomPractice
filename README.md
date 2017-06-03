@@ -25,7 +25,7 @@
   
 4. RadarCreditChart - 雷达信用图表  
 * 主要文件链接:  
-[雷达图表控件RadarCreditChart]()  
-[博客链接]()  
+[雷达图表控件RadarCreditChart](https://github.com/cizkey/CustomPractice/blob/master/RadarCreditChart/app/src/main/java/com/maxwell/radarcreditchart/RadarCreditChart.java)  
+[博客链接](http://blog.csdn.net/maxwell0401/article/details/72855863)  
 <img width="30%" src="https://github.com/cizkey/CustomPractice/blob/master/RadarCreditChart/screenshot/screenshot02.png" />  
 <img width="20%" src="https://github.com/cizkey/CustomPractice/blob/master/RadarCreditChart/screenshot/screenshot01.png" />  

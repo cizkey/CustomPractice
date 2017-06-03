@@ -192,8 +192,8 @@ public class RadarCreditChart extends View {
         }
         //获得文字宽度
         float textWidth = totalScorePaint.measureText(String.valueOf(totalScore));
-        Paint.FontMetrics fontMetrics = totalScorePaint.getFontMetrics();
         //获得文字高度
+        Paint.FontMetrics fontMetrics = totalScorePaint.getFontMetrics();
         float textHeight = Math.abs(fontMetrics.ascent) - fontMetrics.descent;
         canvas.drawText(String.valueOf(totalScore), centerX - textWidth / 2, centerY + textHeight / 2, totalScorePaint);
     }
