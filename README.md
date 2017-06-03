@@ -18,7 +18,14 @@
 <img width="20%" src="https://github.com/cizkey/CustomPractice/blob/master/ChineseKeyboard/screenshot/screenshot1.png" />
 
 3. CircleMenu - 仿建行的圆形菜单  
-* 主要文件连接:  
+* 主要文件链接:  
 [圆形菜单布局CircleMenuLayout](https://github.com/cizkey/CustomPractice/blob/master/CircleMenu/app/src/main/java/com/maxwell/circlemenu/CircleMenuLayout.java)  
 [博客链接](http://blog.csdn.net/maxwell0401/article/details/72853594)  
 <img width="20%" src="https://github.com/cizkey/CustomPractice/blob/master/CircleMenu/screenshot/screenshot01.png" />
+  
+4. RadarCreditChart - 雷达信用图表  
+* 主要文件链接:  
+[雷达图表控件RadarCreditChart]()  
+[博客链接]()  
+<img width="30%" src="https://github.com/cizkey/CustomPractice/blob/master/RadarCreditChart/screenshot/screenshot02.png" />  
+<img width="20%" src="https://github.com/cizkey/CustomPractice/blob/master/RadarCreditChart/screenshot/screenshot01.png" />  
