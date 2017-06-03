@@ -17,4 +17,9 @@
 [博客链接](http://blog.csdn.net/maxwell0401/article/details/72764347)  
 <img width="20%" src="https://github.com/cizkey/CustomPractice/blob/master/ChineseKeyboard/screenshot/screenshot1.png" />
 
+3. CircleMenu - 仿建行的圆形菜单  
+* 主要文件连接:  
+[圆形菜单布局CircleMenuLayout]()  
+[博客连接]()  
 
+<img width="20%" src="" />
